@@ -1,5 +1,3 @@
-# f1-2025-race-results-sql
-
 # F1 2025 Race Results – SQL Modeling & Data QA
 
 This project uses a 2025 Formula 1 race results dataset (from Kaggle) to practice creating basic analytics and data quality techniques via SQL using duckDB.
